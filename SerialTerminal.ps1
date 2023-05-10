@@ -7,7 +7,7 @@ $pollTime = 100
 # How long should we wait for a response until we consider the device to be "too slow"
 $timeoutForResponse = 2500
 
-$waitBeforeExit = $False
+$waitBeforeExit = $True
 $sendEmptyLines = $False
 
 function WaitExit
