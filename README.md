@@ -1,5 +1,5 @@
 # Powershell Serial Script
-A powershell script for sending and receiving serial data
+A lightweight powershell script for sending and receiving serial data
 
 This was developed to communicate with 3D printers via USB.
 This script requires no software installation on Windows PCs. Download the script, follow the steps in [How to use the script](#how-to-use-the-script) and you should be good to go.
