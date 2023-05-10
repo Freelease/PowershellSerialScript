@@ -1,4 +1,4 @@
-# PowershellSerialScript
+# Powershell Serial Script
 A powershell script for sending and receiving serial data
 
 This was developed to communicate with 3D printers via USB.
