@@ -18,3 +18,8 @@ This script requires no software installation on Windows PCs. Download the scrip
 - Check whether you have a connection to the device.
 - Check that the device is turned on and is ready to accept data transmissions.
 - Check whether your PC is able to establish a serial connection.
+
+### Error message `Port closed!` when choosing a port
+- Make sure that no other program is acessing the device (through that port).
+- Confirm that you are still connected to the device.
+- Check that the device is not in a sleep or power-saving mode.
